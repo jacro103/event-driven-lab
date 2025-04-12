@@ -26,12 +26,6 @@ Este laboratorio permite configurar un entorno de desarrollo en GitHub Codespace
 ![](./img/parte1.png)<br>
 ![](./img/parte2.png)<br>
 
-## 🚀 Tecnologías Usadas
-- **Java 17**
-- **Selenium WebDriver**
-- **Cucumberk**
-- **JUnit 5**
-- **Maven**
 
 ## Autor
 
