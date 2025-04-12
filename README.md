@@ -22,6 +22,7 @@ Este laboratorio permite configurar un entorno de desarrollo en GitHub Codespace
 2. En la pestaña `Codespaces`, haz clic en `Create codespace on main`.
 
 ## 4 . Seguir las instrucciones del lab
+![](./img/parte3.png)<br>
 ![](./img/parte1.png)<br>
 ![](./img/parte2.png)<br>
 
